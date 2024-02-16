@@ -3,6 +3,7 @@ backend:
   branch: main
 media_folder: 'dist/images/uploads'
 public_folder: '/images/uploads'
+publish_mode: editorial_workflow
 collections:
   - name: 'page'
     label: 'Page'
