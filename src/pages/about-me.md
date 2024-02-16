@@ -1,5 +1,5 @@
 ---
-title: All about me
+title: All About Hugh
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nisi! Ut quos eum molestias illum. Eveniet, repudiandae totam, accusamus quia, obcaecati culpa error cupiditate doloribus quasi corrupti neque vitae explicabo.
