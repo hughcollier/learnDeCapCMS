@@ -9,7 +9,6 @@ collections:
     label: 'Page'
     folder: 'src/pages'
     create: true
-    slug: '{ { slug } }'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: base }
       - { label: 'Title', name: 'title', widget: 'string' }
