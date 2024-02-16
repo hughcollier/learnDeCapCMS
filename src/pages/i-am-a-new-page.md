@@ -2,4 +2,4 @@
 layout: base
 title: "I am a new page "
 ---
-Let's see hoe I go!
+Let's see how I go!
