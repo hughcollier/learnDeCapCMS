@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: 'dist/images/uploads'
+public_folder: '/images/uploads'
+collections:
+  - name: 'page'
+    label: 'Page'
+    folder: 'src/pages'
+    create: true
+    slug: '{ { title | slugify } }'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: base }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
